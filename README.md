@@ -7,7 +7,7 @@ It supports the following functionality:
 - Concurrent Connections- the download manager supports downloading a file using multiple HTTP connections.
 - Multi-server download- the download manager is able to fetch different parts of the file from different servers. 
 
-## Files description:
+## Files description
 
 **IdcDm.java** - This class is the starting point of the program. It creates the DownloadManager according to the given arguments from the user.
 
